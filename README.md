@@ -11,11 +11,7 @@ EDA блокнот:
 
 TBA ...
 
-Model, train блокнот:
-
-TBA ...
-
-Только inference:
+Model, train, inference блокнот:
 
 TBA ...
 
