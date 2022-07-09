@@ -9,11 +9,11 @@ https://www.kaggle.com/datasets/dimka11/predicting-the-risk-cardiovascular-disea
 
 EDA блокнот:
 
-TBA ...
+[EDA](https://github.com/dimka11/Predicting-the-risk-of-developing-a-patient-s-cardiovascular-disease/blob/main/predicting-cardiovascular-disease-eda.ipynb)
 
 Model, train, inference блокнот:
 
-TBA ...
+[Solution notebook](https://github.com/dimka11/Predicting-the-risk-of-developing-a-patient-s-cardiovascular-disease/blob/main/predicting-cardiovascular-disease-model.ipynb)
 
 
 Задача — разработать модель машинного обучения, цель которой —
